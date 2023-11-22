@@ -1,0 +1,1 @@
+headers = ["age", "sex","cp","trestbp","chol",	"fbs",	"restecg"	,"thalach"	,"exang"	,"oldpeak"	,"slope",	"ca"	,"thal"]
